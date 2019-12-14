@@ -16,7 +16,7 @@ Encryption_1 works in two phases:
 
 The work flow of the application can be found here:
 
-![Work flow](work_flow.png)
+![Work flow](./images/work_flow.png)
 
 ## Why does it not detected by AV?
 
