@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Encryption\_1 is an AV program that can be useful in post exploitation operations in order to load [SharpSploit](https://github.com/cobbr/SharpSploit). project to dump credentials using Mimikatz. Moreover, can ben used to load and execute standalone powershell script.
+Encryption\_1 is an AV program that can be useful in post exploitation operations in order to load [SharpSploit](https://github.com/cobbr/SharpSploit). Moreover, can ben used to load and execute standalone powershell script.
 
 ## How does it work?
 
